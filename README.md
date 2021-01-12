@@ -1,6 +1,6 @@
-# Image-Rotate
-Rotate Image Using OpenCV
-IDE Used:       I have visual studio 2019 to make this project.
+# Image-Rotate (Rotate Image Using OpenCV)
+
+IDE Used :       I have visual studio 2019 to make this project.
 
 Header Files:
     	opencv2/opencv.hpp: This is used to import all the necessary functions in open cv.
